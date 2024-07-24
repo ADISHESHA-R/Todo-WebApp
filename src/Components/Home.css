@@ -1,0 +1,12 @@
+.todo{
+    text-align: center;
+    padding: 1px solid black;
+    border: 1px solid black;
+    margin-top: auto;
+    text-align: center;
+    background-color: azure;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 2px solid black;
+}
